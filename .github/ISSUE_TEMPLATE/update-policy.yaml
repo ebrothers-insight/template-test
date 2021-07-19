@@ -1,10 +1,9 @@
 ---
 name: Update existing GCP Org Policy
-about: Create a request to update an existing GCP org policy,
+description: Create a request to update an existing GCP org policy,
   its value(s), scope, allowed values, denied values, or exclusions
 title: Request GCP Org Policy Update
 labels: [Update Org Policy]
-assignees: 
 
 body:
   - type: textarea
