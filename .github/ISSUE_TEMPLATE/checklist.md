@@ -1,5 +1,7 @@
 ---
 name: Add a GCP Folder
+about: about: Create a request to update an existing Policy Assignment or Definition and
+  its value(s).
 description: Create a request for a new GCP Folder
 title: Request a New GCP Folder
 labels: [Create Folder]
