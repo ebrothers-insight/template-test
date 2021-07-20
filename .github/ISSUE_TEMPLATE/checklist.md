@@ -1,10 +1,17 @@
 ---
-name: Update existing Azure Policy within Terraform
-about: Create a request to update an existing Policy Assignment or Definition and
-  its value(s).
-title: Request Policy Definition or Assignment Update
-labels: enhancement
-assignees: evanbrothers
+name: Add a GCP Folder
+description: Create a request for a new GCP Folder
+title: Request a New GCP Folder
+labels: [Create Folder]
+---
+
+## What is the name of the folder to be created?
+
+## What is the name of this folder's parent folder?
+
+## Please add any additional context.
+
+
 ---
 
 # Please follow the general troubleshooting steps first:
