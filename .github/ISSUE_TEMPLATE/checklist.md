@@ -2,7 +2,7 @@
 name: Update existing Azure Policy within Terraform
 about: Create a request to update an existing Policy Assignment or Definition and its value(s).
 title: Request Policy Definition or Assignment Update
-labels: enhancement
+labels: [enhancement]
 ---
 
 ## What is the name of the folder to be created?
