@@ -4,7 +4,6 @@ about: Create a request to update an existing Policy Assignment or Definition an
   its value(s).
 title: Request Policy Definition or Assignment Update
 labels: enhancement
-assignees: evanbrothers
 ---
 
 ## What is the name of the folder to be created?
